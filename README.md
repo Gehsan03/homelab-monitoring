@@ -213,13 +213,3 @@ Ubuntu → autres VM (labnet)
 Utilisation :
 
 ssh -J user@127.0.0.1:2222 kali@192.168.50.11
-🎯 Conclusion
-
-Ce projet permet de maîtriser :
-
-virtualisation
-réseau (NAT + LAN isolé)
-Docker
-monitoring système
-reverse proxy
-administration Linux distante
